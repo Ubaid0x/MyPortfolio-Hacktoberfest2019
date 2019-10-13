@@ -2,10 +2,7 @@
 
 body {
   margin: 0;
-  /*background-color: #ffe6cc;*/
   font-family: 'Quicksand', sans-serif;
-
-  /* background-image: linear-gradient(to top, #fdcbf1 0%, #fdcbf1 1%, #e6dee9 100%);  */
   animation: bg-animate 8s linear infinite alternate both;
   cursor: url(https://i.ibb.co/h7cGf6X/benni-pointer.gif), auto;
   font-family: 'Quicksand', sans-serif;
@@ -67,15 +64,6 @@ h6 {
   font-weight: bold;
   margin: 0 0 30px;
   margin-bottom: 15px;
-}
-
-h1 {
-  text-align: right;
-  font-size: 2em;
-  line-height: 4rem;
-  text-shadow: 2px 2px 4px #000000;
-  margin-top: 20px;
-
 }
 
 h3 {
